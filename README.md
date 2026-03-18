@@ -41,7 +41,7 @@ Throughout the `HW01` - `HW04` notebooks, the following data science and machine
 
 1. Clone this repository:
 ```bash
-> git clone [https://github.com/Pmcn2005/hw-apre.git](https://github.com/Pmcn2005/hw-apre.git)
+> git clone https://github.com/Pmcn2005/hw-apre.git
 ```
 2. Navigate to the project directory and ensure you have Python installed along with the required libraries (Pandas, Scikit-Learn, Jupyter, etc.).
 
