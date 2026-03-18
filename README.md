@@ -2,7 +2,6 @@
 
 This repository contains a collection of Machine Learning assignments, data analysis projects, and technical reports developed for the Machine Learning (*Aprendizagem*) course. 
 
-Additionally, it includes a separate Networking module implementing a Named Data Networking (NDN) protocol architecture in C.
 
 ## 📁 Repository Structure
 
@@ -18,7 +17,6 @@ The repository is organized into distinct homework assignments (HW) and data fol
   * `hungarian_heart_diseases.csv` - Used for heart disease classification.
   * `rent.csv` - Used for regression tasks predicting real estate rental prices.
 
-* **`Proj_EE.zip`**: A distinct, academic Networking project developed in C. It implements a prototype of the Named Data Networking (NDN) architecture, including Pending Interest Tables (PIT), cache management, and UDP socket communication.
 
 ## 🚀 Machine Learning Highlights
 
@@ -38,16 +36,12 @@ Throughout the `HW01` - `HW04` notebooks, the following data science and machine
 * Scikit-Learn (Machine Learning models and evaluation)
 * Matplotlib & Seaborn (Data visualization)
 
-**Networking Project (`Proj_EE`):**
-* C Programming
-* POSIX Sockets (UDP communication)
-* Makefile
 
 ## ⚙️ How to Run the Notebooks
 
 1. Clone this repository:
 ```bash
-> git clone [https://github.com/YourUsername/hw-apre.git](https://github.com/YourUsername/hw-apre.git)
+> git clone [https://github.com/Pmcn2005/hw-apre.git](https://github.com/Pmcn2005/hw-apre.git)
 ```
 2. Navigate to the project directory and ensure you have Python installed along with the required libraries (Pandas, Scikit-Learn, Jupyter, etc.).
 
